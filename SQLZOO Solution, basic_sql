@@ -1,0 +1,4 @@
+#Modify it to show the population of Germany
+
+SELECT POPULATION FROM world 
+WHERE name = 'Germany'
